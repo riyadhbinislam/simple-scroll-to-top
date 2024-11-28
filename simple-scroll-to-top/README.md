@@ -27,7 +27,7 @@ How to Use:
 	2.	Customize: Navigate to Appearance > Customize > Scroll to Top Settings to configure the button’s background color, border radius, and custom image.
 	3.	Save Changes: Apply your customizations and see the changes live on your site.
 
-ontribute
+Contribute
 
 This plugin is open-source and welcomes contributions! You can find the source code and development updates on GitHub. Feel free to report issues, suggest features, or submit pull requests.
 
