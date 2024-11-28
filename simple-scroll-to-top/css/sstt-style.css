@@ -1,0 +1,16 @@
+/* Image style */
+#scrollUp {
+    background-image: url("../image/up-arrow.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    bottom: 20px;
+    right: 50%;
+    width: 40px;
+    height: 40px;
+    text-indent: -9999px;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 100%;
+    padding: 10px;
+}
